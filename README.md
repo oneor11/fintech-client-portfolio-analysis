@@ -49,7 +49,7 @@ best portfolio to incldue as an option for the firm's clients.  Types of analysi
 
 ![screenshot of rolling standard deviation](docs/images/rstd.png)
 
-![screenshot of Berkshire Hathaway, Inc 60 Day Rolling Beta](docs/images/beta.png)
+![screenshot of Berkshire Hathaway, Inc 60 Day Rolling Beta](docs/images/bh_beta.png)
 
 ![screenshot of Sharpe Ratios](docs/images/sharpe.png)
 
